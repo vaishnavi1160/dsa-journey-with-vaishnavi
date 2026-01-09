@@ -43,9 +43,8 @@ Welcome to my **Data Structures & Algorithms learning journey** ✨
 This learning journey is inspired by amazing educators:
 
 - 🎥 **CTO Bhaiya**  
-  🔗 YouTube: (https://www.youtube.com/@CodingwithCTOBhaiya ) 
-
-(Full implementation & practice done by **Vaishnavi** ✨)
+  🔗 YouTube: (https://www.youtube.com/@CodingwithCTOBhaiya )
+ 💻 GitHub: @anujkumar
 
 ---
 
